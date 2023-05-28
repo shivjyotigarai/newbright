@@ -4,7 +4,7 @@
 
 </br>
 
-> https://newbrightmernapp.herokuapp.com/
+> https://web-production-3334.up.railway.app/
 
 <br>
 
@@ -23,7 +23,7 @@ Downloads the npm packages
 ### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:1239](http://localhost:1239) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -32,7 +32,7 @@ You may also see any lint errors in the console.
 
 ```
 NODE_ENV = production
-PORT = 5000
+PORT = 1239
 PASSWORD = 5wih7nDeldv5IYU1
 MONGO_URI = mongodb+srv://shivjyotigarai:5wih7nDeldv5IYU1@cluster0.bfyfe.mongodb.net/proshop?retryWrites=true&w=majority
 JWT_SECRET=my-ultra-secure-and-ultra-long-secret
